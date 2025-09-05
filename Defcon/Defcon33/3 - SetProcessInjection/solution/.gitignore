@@ -1,0 +1,4 @@
+cmake-*
+.idea/*
+build
+sc.txt
